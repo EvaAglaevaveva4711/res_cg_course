@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.6)  28 FEB 2025 04:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.6)  1 MAR 2025 06:11
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2747,38 +2747,38 @@ Package pdftex.def Info: images/Raycasting.pdf  used on input line 46.
 
 (tech_part.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-<images/morning.jpg, id=461, 1044.15094pt x 601.4972pt>
+<images/morning.jpg, id=461, 1444.64719pt x 812.28468pt>
 File: images/morning.jpg Graphic file (type jpg)
 <use images/morning.jpg>
 Package pdftex.def Info: images/morning.jpg  used on input line 16.
-(pdftex.def)             Requested size: 426.79134pt x 245.86284pt.
-<images/morning_50.jpg, id=466, 1054.6903pt x 598.48593pt>
+(pdftex.def)             Requested size: 426.79134pt x 239.96895pt.
+<images/morning_50.jpg, id=466, 1444.64719pt x 812.28468pt>
 File: images/morning_50.jpg Graphic file (type jpg)
 <use images/morning_50.jpg>
 Package pdftex.def Info: images/morning_50.jpg  used on input line 25.
-(pdftex.def)             Requested size: 426.79134pt x 242.17543pt.
+(pdftex.def)             Requested size: 426.79134pt x 239.96895pt.
 [22
 
 
 
 
  <./images/morning.jpg>]
-<images/day_50.jpg, id=476, 1038.88126pt x 606.01407pt>
+<images/day_50.jpg, id=476, 1444.64719pt x 810.77907pt>
 File: images/day_50.jpg Graphic file (type jpg)
 <use images/day_50.jpg>
 Package pdftex.def Info: images/day_50.jpg  used on input line 32.
-(pdftex.def)             Requested size: 426.79134pt x 248.95746pt.
-<images/evening_50.jpg, id=477, 1043.39813pt x 600.74437pt>
+(pdftex.def)             Requested size: 426.79134pt x 239.52415pt.
+<images/evening_50.jpg, id=477, 1444.64719pt x 812.28468pt>
 File: images/evening_50.jpg Graphic file (type jpg)
 <use images/evening_50.jpg>
 Package pdftex.def Info: images/evening_50.jpg  used on input line 39.
-(pdftex.def)             Requested size: 426.79134pt x 245.7293pt.
+(pdftex.def)             Requested size: 426.79134pt x 239.96895pt.
  [23 <./images/morning_50.jpg> <./images/day_50.jpg>]
-<images/night_50.jpg, id=482, 1044.90375pt x 602.25pt>
+<images/night_50.jpg, id=482, 1444.64719pt x 812.28468pt>
 File: images/night_50.jpg Graphic file (type jpg)
 <use images/night_50.jpg>
 Package pdftex.def Info: images/night_50.jpg  used on input line 46.
-(pdftex.def)             Requested size: 426.79134pt x 245.98676pt.
+(pdftex.def)             Requested size: 426.79134pt x 239.96895pt.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 55.
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
@@ -2881,8 +2881,8 @@ Package rerunfilecheck Info: File `report.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  44549 strings out of 474485
- 970834 string characters out of 5743734
- 2033542 words of memory out of 5000000
+ 969424 string characters out of 5743734
+ 2035542 words of memory out of 5000000
  65721 multiletter control sequences out of 15000+600000
  619139 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2900,7 +2900,7 @@ s/varya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 <C:/Users/varya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 r12.pfb><C:/Users/varya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb>
-Output written on report.pdf (38 pages, 2853808 bytes).
+Output written on report.pdf (38 pages, 3376698 bytes).
 PDF statistics:
  938 PDF objects out of 1000 (max. 8388607)
  271 named destinations out of 1000 (max. 500000)
